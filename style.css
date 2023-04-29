@@ -1,13 +1,8 @@
-/* The Following code is written by Dhruv Arora (github.com/itsdhruvarora) */
 /* set size of root element */
-
 html {
     font-size: 7px;
 }
-
-
 /* set border-box style for all elements of webpage */
-
 * {
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
